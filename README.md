@@ -1,19 +1,18 @@
 # Kickstarting with Excel
 
 ## Overview of Project
-
 	Louise needs assistance in performing a deep dive into a large block of crowdfunding data in regards 
 to varying performances. In order to assist Louise with identifying what she needs based on her provided 
 criteria, the data will need to be cleaned, consolidated, and visualized for Lousie to make the most accurate 
 decision.
 
 ### Purpose
-	The purpose of the project was to perform data analysis on thousands of crowdfundng projects to 
+The purpose of the project was to perform data analysis on thousands of crowdfundng projects to 
 visually depict and identify hidden trends.
 
 ## Analysis and Challenges
 
-	The analysis was performed using varying Excel formulas to iterate through the thousands of records 
+The analysis was performed using varying Excel formulas to iterate through the thousands of records 
 in order to consolidate into specific categories. Once the formulas were finalized and the data was 
 cleaned based on the desired outcome, pivot tables and line charts were created and filtered to then 
 view each category visually. The charts/images were color-coded and labeled for simple view and are 
