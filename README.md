@@ -1,12 +1,14 @@
 # Kickstarting with Excel
 
 ## Overview of Project
-	Louise needs assistance in performing a deep dive into a large block of crowdfunding data in regards 
+
+Louise needs assistance in performing a deep dive into a large block of crowdfunding data in regards 
 to varying performances. In order to assist Louise with identifying what she needs based on her provided 
 criteria, the data will need to be cleaned, consolidated, and visualized for Lousie to make the most accurate 
 decision.
 
 ### Purpose
+
 The purpose of the project was to perform data analysis on thousands of crowdfundng projects to 
 visually depict and identify hidden trends.
 
@@ -40,7 +42,8 @@ worked in opposite directions. There was a higher percentage for both categories
 ![This is an image](https://github.com/gonzojc/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
-	A large challenge was managing the time dedicated to the data analysis during the holidays. A few 
+
+A large challenge was managing the time dedicated to the data analysis during the holidays. A few 
 other challenges included encountering syntax errors when writing the formulas and adjust the categories in
 order to visually depict the data correctly in charts. This took some trial and error until the correct format
 and data was displayed correctly.
